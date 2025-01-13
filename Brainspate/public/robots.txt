@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://brainspate.com/sitemap.xml
